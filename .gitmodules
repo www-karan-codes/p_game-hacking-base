@@ -1,0 +1,9 @@
+[submodule "Math"]
+	path = Math
+	url = git@github.com:www-karan-codes/m_game-hacking-math.git
+[submodule "Aimbot"]
+	path = Aimbot
+	url = git@github.com:www-karan-codes/m_game-hacking-aimbot.git
+[submodule "plog"]
+	path = plog
+	url = git@github.com:SergiusTheBest/plog.git
