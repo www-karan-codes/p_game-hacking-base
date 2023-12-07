@@ -7,3 +7,6 @@
 [submodule "plog"]
 	path = plog
 	url = git@github.com:SergiusTheBest/plog.git
+[submodule "SDK"]
+	path = SDK
+	url = git@github.com:www-karan-codes/Tribes-Ascend-SDK.git
